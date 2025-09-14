@@ -1,0 +1,74 @@
+# ----------------------------------------------------
+# Archivos y directorios comunes generados por IDEs
+# ----------------------------------------------------
+# Visual Studio Code
+.vscode/
+.vscode-insiders/
+
+# JetBrains IDEs (IntelliJ, WebStorm, PyCharm, etc.)
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Eclipse
+.classpath
+.project
+.settings/
+.buildpath
+
+# Directorios de compilación y dependencias
+# ----------------------------------------------------
+/build/
+/dist/
+/target/
+/bin/
+/obj/
+node_modules/
+vendor/
+
+# Archivos de logs y temporales
+# ----------------------------------------------------
+*.log
+*.tmp
+*.temp
+/tmp/
+
+# Archivos de sistema y de otros entornos
+# ----------------------------------------------------
+.DS_Store # macOS
+Thumbs.db # Windows
+desktop.ini # Windows
+
+# Archivos de credenciales, tokens y datos sensibles
+# ----------------------------------------------------
+.env
+.env.*
+config.json
+settings.ini
+credentials.json
+token.json
+key.pem
+secrets.yaml
+
+# Archivos ejecutables y de configuración
+# ----------------------------------------------------
+# Ejecutables
+*.exe
+*.dll
+*.so
+*.o
+*.out
+*.app
+
+# Archivos de prueba y depuración
+*.pyc
+*.swp
+*~
